@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "Fulano", "active": true},
+    {"id": 2, "name": "Ciclano", "active": false},
+    {"id": 3, "name": "Beltrano", "active": true},
+    {"id": 4, "name": "Joselito", "active": true},
+    {"id": 5, "name": "Umatalde", "active": true}
+]

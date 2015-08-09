@@ -1,0 +1,19 @@
+{
+  "name": "mongo-example",
+  "version": "1.0.0",
+  "description": "Simple project with MongoDB",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marvastsi/mongo-example.git"
+  },
+  "dependencies": {
+    "mongodb": "~2.0"
+  },
+  "author": "Marcelo F Vasconcelos",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/marvastsi/mongo-example/issues"
+  },
+  "homepage": "https://github.com/marvastsi/mongo-example"
+}
