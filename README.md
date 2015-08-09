@@ -1,2 +1,2 @@
 # mongo-example
-My first example with MongoDB
+Simple project example with MongoDB and Angular
